@@ -1,0 +1,39 @@
+#select_folder {
+    position: relative;
+    z-index: 4;
+}
+
+ul#drop_down {
+    display: block;
+    position: absolute;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+ul#drop_down li {
+    width: 80%;
+    margin-left: 5%;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    list-style: none;
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+ul#drop_down li:last-child {
+    border-radius: 0 0 5px 5px;
+}
+
+ul#drop_down li:first-child {       /*Отступ от Меню */
+    margin-top: 15px;
+}
+
+ul#dropdown li a {
+    text-align: center;
+    display: block;
+    color: #fff;
+    padding: 0px 0;
+}

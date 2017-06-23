@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="100px"
+   height="100px"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5650"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5652" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.42316842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -2.8358041,1.7410356 727.43276,512.38413"
+       id="path3340" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.11584187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       d="M -2.8358041,1.0278458 740.47327,523.08197 -2.8358041,1052.268"
+       id="path4148" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.42316842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       d="m 423.15419,301.99347 c 269.05083,156.78958 260.26735,305.59356 0,447.16931"
+       id="path4156" />
+  </g>
+</svg>
